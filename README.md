@@ -40,3 +40,18 @@ someVar();
 let someVar;
 
 When declared like above, initially it will be of type any
+
+# Functions
+
+## Function default value
+function calcSquare(num1: number = 10) {
+  return num1*num1;
+}
+
+
+## Function return type
+const greetings = (fname: string, lname: string): string => {
+      return "Hello " + fname + " " + lname;
+}
+
+## 
