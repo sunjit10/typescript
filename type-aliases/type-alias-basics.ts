@@ -1,4 +1,5 @@
 // This is a type alias!
+// Note: It has a = sign before { unlike Interface 
 type Person = {
   name: string,
   age: number

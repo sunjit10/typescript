@@ -1,6 +1,6 @@
 ## Typescript Interface Trail
 
-- [Basics](./interface-basics.ts)
+- [Basics](./interfaces-basics.ts)
 - [Optional Fields](./interface-optional-fields.ts)
 - [Readonly Fields](./interface-readonly-fields.ts)
 - Methods
@@ -13,3 +13,5 @@
 - Using extends
   - [Extending Interface](./interface-extends-interface.ts)
   - [Extending multiple Interfaces](./interface-extends-multipleinterfaces.ts)	
+- [In Operator](./interface-in-operator.ts)
+- [Discrimintaed Unions](./interface-discriminated-unions.ts)
