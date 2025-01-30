@@ -25,8 +25,11 @@
   - [Solution](./arrays-customtype2.ts)
 
 ## Any Type Array
-- [Any](./arrays-any.ts)
+
+Why would you need an `any` Type Array? 
+- [Scenario 1](./arrays-any.ts)
 
 ## Multi Dimensional Array
 
 - [Multidimensional](./arrays-multidimensional.ts)
+- [Multidimensional empty](./arrays-multidimensional-empty.ts)

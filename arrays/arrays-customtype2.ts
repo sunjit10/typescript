@@ -1,7 +1,3 @@
-let ages: number[] = [];
-
-let gameBoard: string[][] = [[]];
-
 type Product = {
  name: string;
  price: number;
